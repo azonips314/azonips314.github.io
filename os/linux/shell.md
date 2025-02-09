@@ -144,5 +144,5 @@ done
 ```
 
 ---
-参考资料：
-https://ryanstutorials.net/bash-scripting-tutorial/
+参考资料：<br>
+ryan's tutorial: https://ryanstutorials.net/bash-scripting-tutorial/
