@@ -69,7 +69,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/z3278304322' },
       {
         icon:{
-          svg: '<img src="/mail.svg" width=20 height=20 />'
+          svg: '<img src="//azonips.github.io/mail.svg" width=20 height=20 />'
         },
         link: 'mailto:huawen314@163.com'
       }
