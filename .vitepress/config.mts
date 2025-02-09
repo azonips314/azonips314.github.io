@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/azonips.github.io/',
   lastUpdated: true,
   lang: 'zh-CN',
   title: "Azonips' Blog",
