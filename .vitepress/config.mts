@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lastUpdated: true,
-  lang: 'zh',
+  lang: 'zh-CN',
   title: "Azonips' Blog",
   description: "分享关于计算机和其他学科的知识",
   themeConfig: {
