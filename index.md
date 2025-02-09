@@ -6,7 +6,7 @@ hero:
   name: "Azonips的博客"
   text: "欢迎🎉🎉🎉"
   image:
-    src: '/azonips.github.io/logo.png'
+    src: '/logo.png'
   actions:
     - theme: brand
       text: 关于本网站
