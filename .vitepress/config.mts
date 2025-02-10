@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/azonips.github.io/',
   lastUpdated: true,
   lang: 'zh-CN',
   title: "Azonips' Blog",
@@ -66,10 +65,10 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/z3278304322' },
+      { icon: 'github', link: 'https://github.com/azonips314' },
       {
         icon:{
-          svg: '<img src="/azonips.github.io/mail.svg" width=20 height=20 />'
+          svg: '<img src="/mail.svg" width=20 height=20 />'
         },
         link: 'mailto:huawen314@163.com'
       }
